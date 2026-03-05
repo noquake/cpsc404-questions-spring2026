@@ -1,6 +1,6 @@
 # Week 7 Question - Chapter 5: Winning the Prisoner's Dilemma
 
-**Student:** Saqlain Anju  
+**Student:** Saqlain Anjum  
 **Date:** March 5th 2026  
 
 ## Question
