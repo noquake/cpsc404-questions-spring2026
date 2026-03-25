@@ -1,0 +1,2 @@
+Telling your boss "I got this" can build trust in the relationship by showing him that you can handle responsibility and that you can be a reliable and trustworthy employee. Chapter 8 says that sometimes claiming a something too much can damage the project. Are these different because one happens in a corporate job and the other happens in a open source project? How can you build a trust relationship with the people you are working with without overstepping? Where do you find the balance? 
+
