@@ -148,7 +148,7 @@ test('all known week folders have labels', () => {
     const folders = [
         'week02-chapter01', 'week03-chapter02', 'week04-chapter03',
         'week06-dual-reading', 'week07-chapter05-async', 'week08-dual-reading',
-        'week10-dual-reading', 'week11-chapter08', 'week12-chapter09', 'week13-chapter10'
+        'week10-dual-reading', 'week11-chapter06', 'week12-chapter08', 'week13-chapter09', 'week14-chapter10'
     ];
     for (const f of folders) {
         assert(WEEK_LABELS[f], `Missing label for ${f}`);

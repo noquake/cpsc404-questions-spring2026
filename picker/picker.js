@@ -17,9 +17,10 @@ const WEEK_LABELS = {
     'week07-chapter05-async': "Week 7 — Ch 5: Winning the Prisoner's Dilemma",
     'week08-dual-reading': 'Week 8 — Ch 6 + ProducingOSS Ch 6',
     'week10-dual-reading': 'Week 10 — Ch 7 + ProducingOSS Ch 4',
-    'week11-chapter08': 'Week 11 — Ch 8: Your Boss Is Not Your Friend',
-    'week12-chapter09': 'Week 12 — Ch 9: Dealing with Special Cases',
-    'week13-chapter10': 'Week 13 — Ch 10: Managing Your Manager',
+    'week11-chapter06': 'Week 11 — Ch 6: Communicating More Effectively',
+    'week12-chapter08': 'Week 12 — Ch 8: Your Boss Is Not Your Friend',
+    'week13-chapter09': 'Week 13 — Ch 9: Dealing with Special Cases',
+    'week14-chapter10': 'Week 14 — Ch 10: Managing Your Manager',
 };
 
 // Strip metadata lines (Student, Date, headings) and keep just the question content
