@@ -19,7 +19,7 @@
     --text-done: #b5451b;
     --text-strong: #1a3c6e;
     --text-button: #2c2416;
-    --font-display: 'Georgia', 'Times New Roman', serif;
+    --font-display: 'Playfair Display', Georgia, serif;
     --font-body: 'Segoe UI', system-ui, -apple-system, sans-serif;
     --deck-offset: 5px;
 }
