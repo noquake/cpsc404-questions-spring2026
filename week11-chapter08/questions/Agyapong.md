@@ -1,0 +1,3 @@
+Chapter 6: Communicating More Effectively
+
+This chapter brings to light the different personalities and preferences that may arise in the work space and the actions we can take to get on the better side of those personalities. With that being said though, there seems to be a lot going on regarding the analysis and observation of our peers to 'best utilize' them. My question is, are there any clear principles or characteristics that are universally welcome? Like being hardworking, integrity, etc. regardless of whats happening in the work environment? If so what are they? Or does it just depend on the convenience we may value as employees?
