@@ -1,0 +1,4 @@
+## Question: HYBHY Chapter 9
+## Alex Sanchez
+
+I think power dynamics are very different in remote and hybrid work spaces. It's more challenging for someone to speak up if they dont feel seen or heard, and because of the uncomfortability, may not even speak up during conflicts if they arise. HR's main job is to protect the company, it made me think about how remote employees are more at at disadvantage because they won't speak up and communicate their concerns. Unethical behavior may persist and continue like lying and unfair treatment due to how remote settings are less indirect and employees feeling less prioritized from HR. Do you think these employees are at more disadvantage especially when dealing with HR and if unethical behavior is part of the company culture, will remote employees be confrontational?
